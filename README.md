@@ -45,7 +45,7 @@ Training completed: Nov 1, 2026
 
 Pitch to Jordan Ellis, VP of Card Growth, at Bear Down Bank: approve a two-week first phase to approve for the plan select which segment should receive the pilot mailing.
 
-[Pitch deck (PDF)]( https://github.com/thinhbuiharry/mis561-portfolio/blob/main/adobe/bui-product-pitch.pdf) · [Adobe Express]([https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:04de46b1-0945-4653-97c8-8060c4e1865b?accept=true&invite=true&promoid=Z2G1FQKR&mv=other])
+[Pitch deck (PDF)]( https://github.com/thinhbuiharry/mis561-portfolio/blob/main/adobe/bui-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:04de46b1-0945-4653-97c8-8060c4e1865b?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
 
 Toughest objection: "We only have enough budget for one pilot. How can we be confident that we are targeting the right customers, and what happens if we get it wrong?" 
 Slide 5 answers it: we will rank eligible customer concentration across two dimensions: state and generation. By identifying which segments have the highest concentration of eligible customers, Bear Down Bank can prioritize the strongest potential target segment and focus its limited pilot budget there.
