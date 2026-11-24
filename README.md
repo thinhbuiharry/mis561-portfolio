@@ -54,3 +54,13 @@ AI use: I use it to check grammar and brainstorm what the slides should look lik
 
 Training completed: Nov 16, 2026
 
+
+**11 23, 2026 · Brand Standard Application in Tableau**
+Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of
+Advertising Sales: which two or three genres should lead next year’s ad pitch?
+[Tableau workbook](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17954112804710/DataMoviesIMDBDashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+One thing I’d change: I would pick my theme before formatting anything. Switching from
+light to dark halfway through meant redoing every text color.
+AI use: Claude checked my writing grammar and brainstorm ideas how to visualize the explanatory dashboards,
+11 23, 2026.
+
